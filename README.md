@@ -1,7 +1,7 @@
+## About Me
 - 👋 Hi, I’m @HarryDotMY
 - 👀 I’m interested in Coding , Reading , Eating~
 - 🌱 I’m currently learning django with python.
-- 💞️ I’m looking to collaborate all alone
 - 📫 How to reach me ? Feel free to email me. Harry@Akierry.My
 
 <!---
